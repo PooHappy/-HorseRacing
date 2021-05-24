@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(ConsoleApplication3.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Horse.cpp
+  main.cpp
+C:\Users\User\Desktop\ㄱㅂ\C++\ConsoleApplication3\ConsoleApplication3\RaceGame.h(12,18): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\Desktop\ㄱㅂ\C++\ConsoleApplication3\ConsoleApplication3\RaceGame.h(12,18): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\User\Desktop\ㄱㅂ\C++\ConsoleApplication3\ConsoleApplication3\main.cpp(11,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RaceGame.cpp
+C:\Users\User\Desktop\ㄱㅂ\C++\ConsoleApplication3\ConsoleApplication3\RaceGame.h(12,18): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\User\Desktop\ㄱㅂ\C++\ConsoleApplication3\ConsoleApplication3\RaceGame.h(12,18): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+  코드를 생성하고 있습니다...
+  ConsoleApplication3.vcxproj -> C:\Users\User\Desktop\ㄱㅂ\C++\ConsoleApplication3\Debug\C++.exe
